@@ -20,4 +20,6 @@ Solana, enerji verimli, çok hızlı ve son derece ucuz olarak, en çok kullanı
 * Solana Token Gönderme Alma
 * Solana blokzincir özellikleri (Accounts, Transactions, Instructions, Programs)
 * Ve dahası 
+
+
 Burada [https://devkod.com/Ogren/Solana/giris.html](https://devkod.com/Ogren/Solana/giris.html)
